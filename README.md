@@ -3,7 +3,7 @@
 
 **Acesse aqui:**
 
-[Wireframe] (https://baccarinha.github.io/wireframepatrick/)
+[Wireframe](https://baccarinha.github.io/wireframepatrick/)
 
 🎯 **Objetivo do Projeto**
 
